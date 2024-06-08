@@ -20,7 +20,7 @@ require('dotenv').config()
 //_______________________ ┏  Main Setting  ┓ _______________________\\
 
 creator = '乂𝘽𝘼𝙒𝙊𝙍 𝙄𝘿乂' // Nama 
-port = 8080 //port host
+port = 8050 //port host
 LimitApikey = 100 // Limit Apikey default
 LimitPrem = 999999999 // Limit Premium
 
