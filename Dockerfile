@@ -71,6 +71,6 @@ RUN node test.js
 USER pptruser
 
 # Port
-EXPOSE 8050
+EXPOSE 8050 8080 443
 
 CMD [ "node", "server.js" ]
